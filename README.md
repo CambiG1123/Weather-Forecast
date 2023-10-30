@@ -5,7 +5,7 @@
   ## Deployed Application URL
   https://cambig1123.github.io/Weather-Forecast/
   ## Screenshot
-  ![alt-text](<assets\images\Screenshot.png>)
+  ![alt-text](<assets/images/Screenshot.png>)
   ## Table of Contents
   * [Features](#features)
   * [Languages & Dependencies](#languagesanddependencies)
