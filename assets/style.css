@@ -1,0 +1,57 @@
+.navbar-brand{
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+  background: linear-gradient(to bottom, #82baec, #FFFFFF);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: rgba(56, 108, 221, 0.5);
+  }
+  .logoCstm {
+    color: rgb(154, 255, 253);
+  }
+  
+  main {
+    background: linear-gradient(to bottom, #82baec, #FFFFFF);
+    display: flex;
+    height: 100%;
+    max-width: 1400px;
+    background-color: white;
+    
+  }
+  
+  canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+  }
+
+  #currentCityContainer{
+    height: 200px;
+    }
+
+    #fiveForecastContainer{
+        display: flex;
+        
+    }
+    #fiveTitle{
+      display: flex;
+      
+  }
+  h5{
+    font-size: 15px;
+  }
+  #cardText{
+    font-size: 12px;
+  }
+  .hover:hover{
+    background-color: #82baec;
+    
+  }
+  
